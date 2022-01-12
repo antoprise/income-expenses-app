@@ -1,0 +1,16 @@
+.itemlist{
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+.itemlist li{
+    background: #FFF;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    border-radius: 5px;
+    color: #333;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    position: relative;
+}
